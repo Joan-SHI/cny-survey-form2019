@@ -1,3 +1,10 @@
+## Joan's notes on top of this repo:   
+
+1. I made my very first and simple logo(Logo URL https://logomakr.com/7EaSYh) today for this survey form! :dancer:   
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
