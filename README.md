@@ -1,11 +1,12 @@
 ## Joan's notes on top of this repo:   
 
-1.I made my very first and simple logo(Logo URL https://logomakr.com/7EaSYh) today for this survey form! 
+1. I made my very first and simple logo(Logo URL https://logomakr.com/7EaSYh) today for this survey form!   
+2. Getting messy experimenting with d3_react. Resources are below:      
+https://medium.com/@Elijah_Meeks/interactive-applications-with-react-d3-f76f7b3ebc71   
+https://emeeks.github.io/semiotic/#/semiotic/neighborhoodmap      
+https://d3js.org/      
 
-:dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin:  
-
-
-
+:dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin:    
 
 ## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
