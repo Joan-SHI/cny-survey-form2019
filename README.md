@@ -4,7 +4,8 @@
 2. Getting messy experimenting with d3_react. Resources are below:      
 https://medium.com/@Elijah_Meeks/interactive-applications-with-react-d3-f76f7b3ebc71   
 https://emeeks.github.io/semiotic/#/semiotic/neighborhoodmap      
-https://d3js.org/      
+https://d3js.org/        
+https://beta.observablehq.com/@floledermann/drawing-maps-from-geodata-in-d3    
 
 :dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin:    
 
